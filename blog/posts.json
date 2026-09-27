@@ -3,6 +3,21 @@
   "siteName": "클룩 할인쿠폰 코드",
   "baseUrl": "https://klk.trip-offer.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-23",
-  "posts": []
+  "updated": "2026-09-27",
+  "posts": [
+    {
+      "title": "클룩 여행 상품 예약 시 할인코드 적용 방법",
+      "slug": "klook-discount-code-how-to-apply",
+      "date": "2026-09-27",
+      "description": "클룩에서 여행 상품을 예약할 때 할인코드를 입력하는 위치와 방법, 상품별로 다르게 적용되는 코드와 적용이 안 될 때 확인할 점까지 정리했습니다.",
+      "image": "https://images.unsplash.com/photo-1608286022625-bc07f7a21154?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDc5NTczfDB8MXxzZWFyY2h8MXx8cGhvbmUlMjBjaGVja291dCUyMHNjcmVlbnxlbnwxfDB8fHwxNzkwNDE5NTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "source": "unsplash",
+        "authorName": "naipo.de",
+        "authorUrl": "https://unsplash.com/@naipo_de?utm_source=blog-admin&utm_medium=referral",
+        "photoUrl": "https://unsplash.com/photos/person-holding-black-android-smartphone-k24rOBJ2D_0?utm_source=blog-admin&utm_medium=referral",
+        "siteUrl": "https://unsplash.com?utm_source=blog-admin&utm_medium=referral"
+      }
+    }
+  ]
 }
