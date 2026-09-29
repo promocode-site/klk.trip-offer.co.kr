@@ -3,8 +3,15 @@
   "siteName": "클룩 할인쿠폰 코드",
   "baseUrl": "https://klk.trip-offer.co.kr",
   "postUrlPattern": "/blog/{slug}/",
-  "updated": "2026-09-27",
+  "updated": "2026-09-29",
   "posts": [
+    {
+      "title": "클룩 할인코드로 유럽 투어 할인 받는 조건 정리",
+      "slug": "klook-discount-code-europe-tour-condition",
+      "date": "2026-09-29",
+      "description": "클룩 유럽 투어 상품에 쓸 수 있는 할인코드 KLKEUTOUR20 적용 조건과 할인 한도, 앱·카드 결제 시 함께 쓸 수 있는 코드까지 정리했습니다.",
+      "image": ""
+    },
     {
       "title": "클룩 여행 상품 예약 시 할인코드 적용 방법",
       "slug": "klook-discount-code-how-to-apply",
